@@ -3,10 +3,10 @@
     Perhaps there are obstacles on the board? Perhaps different "pieces" move different ways/amounts?
 
 # Input Format
-    The first line contains N.
+    The first line contains N, the size of the board.
 
 # Constraints
-    4 <= N <= 50
+    Lower Bound <= N <= Upper Bound
 
 # Output
     All possible configurations
