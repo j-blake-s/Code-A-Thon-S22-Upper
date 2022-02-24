@@ -1,0 +1,10 @@
+Here are all of the values in the tower converted to T for true and F for false
+``
+
+    FFFT
+    FTTF
+    TTTT
+
+``
+
+From bottom to top, there are 0 expression blocks, two expression blocks L (all) and Y (any) which both have their conditions to be true satisfied, and L (all), N (none) and Y (any) where only 'any' is satisfied. This is a total of 3 satisfied expression blocks, so 3 is printed.
