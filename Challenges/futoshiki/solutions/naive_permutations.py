@@ -1,13 +1,6 @@
 from itertools import permutations
 from collections import defaultdict as dd, Counter
 from copy import deepcopy
-'''
-this naive solution ignores the alligators and 
-just finds a permutation that works for each
-line
-
-INCOMPLETE
-'''
 
 
 n = int(input())
@@ -54,8 +47,6 @@ def has_col_contradiction(temp_board):
     return False
 
 
-#TODO check for line contradiction
-
 answers = [] 
 def get_perm(line_num, temp_board):
     if line_num == n:
@@ -78,6 +69,7 @@ def get_perm(line_num, temp_board):
         attempt = get_perm(line_num + 1, cur_board)
         if attempt is not None:
             answers.append(attempt)
+            
 
 run = get_perm(0, board)
 # print(answers)
