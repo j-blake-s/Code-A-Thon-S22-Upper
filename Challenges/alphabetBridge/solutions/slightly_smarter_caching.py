@@ -26,7 +26,7 @@ for _ in range(cases):
         print(0)
     else:
         ret = (gen())
-        assert ret < 2 ** 31
+        # assert ret < 2 ** 31
         print(ret)
 
         
