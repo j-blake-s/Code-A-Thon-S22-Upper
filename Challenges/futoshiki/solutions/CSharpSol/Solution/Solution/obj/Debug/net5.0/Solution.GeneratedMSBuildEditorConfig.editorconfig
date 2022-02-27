@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Solution
+build_property.ProjectDir = C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\

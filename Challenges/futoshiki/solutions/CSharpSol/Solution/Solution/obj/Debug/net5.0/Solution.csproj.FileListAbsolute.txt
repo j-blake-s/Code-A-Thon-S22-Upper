@@ -1,0 +1,16 @@
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\bin\Debug\net5.0\Solution.exe
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\bin\Debug\net5.0\Solution.deps.json
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\bin\Debug\net5.0\Solution.runtimeconfig.json
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\bin\Debug\net5.0\Solution.runtimeconfig.dev.json
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\bin\Debug\net5.0\Solution.dll
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\bin\Debug\net5.0\ref\Solution.dll
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\bin\Debug\net5.0\Solution.pdb
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\obj\Debug\net5.0\Solution.csproj.AssemblyReference.cache
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\obj\Debug\net5.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\obj\Debug\net5.0\Solution.AssemblyInfoInputs.cache
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\obj\Debug\net5.0\Solution.AssemblyInfo.cs
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\obj\Debug\net5.0\Solution.csproj.CoreCompileInputs.cache
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\obj\Debug\net5.0\Solution.dll
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\obj\Debug\net5.0\ref\Solution.dll
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\obj\Debug\net5.0\Solution.pdb
+C:\Users\cobou\Documents\College Notes\ACM\CodeathonSpring2022Writing\Code-A-Thon-S22-Upper\Challenges\futoshiki\solutions\CSharpSol\Solution\Solution\obj\Debug\net5.0\Solution.genruntimeconfig.cache
