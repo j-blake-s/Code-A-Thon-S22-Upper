@@ -1,20 +1,20 @@
 ### CSCE 240
 
-|  Rank  |  Username  |   Name   |   Score   |
-| :----: | :--------: |  :----:  |  :-----:  | 
-| 1st    |  _User 1_  | _Name 1_ | _Score 1_ |
-| 2nd    |  _User 2_  | _Name 2_ | _Score 2_ |
-| 3rd    |  _User 3_  | _Name 3_ | _Score 3_ |
-| ... |  ... | ... | ... |
-| ... |  ... | ... | ... |
+|  Rank  |               Username               |             Name             |   Score   |     Time     |
+| :----: |              :--------:              |            :----:            |  :-----:  |    :----:    |
+| 1st    |               dgleaves               |        Daniel Gleaves        |    600    |   28:59:24   |
+| 2nd    |           nathanscottbick01          |         Nathan Bickel        |   348.63  |   41:56:47   |
+| 3rd    |               Ppeters                |          Paul Peters         |   198.50  |   51:10:24   |
+| ... |  ... | ... | ... | ... |
+| ... |  ... | ... | ... | ... |
 
 
 ### CSCE 350
 
-|  Rank  |  Username  |   Name   |   Score   |
-| :----: | :--------: |  :----:  |  :-----:  | 
-| 1st    |  _User 1_  | _Name 1_ | _Score 1_ |
-| 2nd    |  _User 2_  | _Name 2_ | _Score 2_ |
-| 3rd    |  _User 3_  | _Name 3_ | _Score 3_ |
-| ... |  ... | ... | ... |
-| ... |  ... | ... | ... |
+|  Rank  |               Username               |             Name             |   Score   |     Time     |
+| :----: |              :--------:              |            :----:            |  :-----:  |    :----:    |
+| 1st    |            tylerbarrett01            |         Tyler Barrett        |    600    |   84:47:38   |
+| 2nd    |               tjervey                |         Thomas Jervey        |   542.37  |   27:00:25   |
+| 3rd    |             alextsai222              |           Alex Tsai          |    500    |   72:09:22   |
+| ... |  ... | ... | ... | ... |
+| ... |  ... | ... | ... | ... |
