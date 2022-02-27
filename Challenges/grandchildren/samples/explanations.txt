@@ -1,0 +1,3 @@
+Out of all of his grandchildren, Allen was able to give a gift to those that were ages 3 and 94 (only the first grandchild in the list with age 94, not the second). This is 2 grandchildren, and their 2 ages are unique, so '2 2' is printed. 
+
+Allen can give a gift to the grandkids with ages 90, 98, 19, and 19. This is 4 kids, but there are only 3 unique ages here (90, 98, and 19) so '4 3' is printed
